@@ -1,0 +1,31 @@
+body{
+    background-color: black;
+}
+*{
+    color:f3eff5;
+    font-family: cursive;
+
+}
+.green{
+    color: 72b01d;
+}
+a{
+    text-decoration: none;
+}
+.button {
+    background-color: 72b01d;
+    border: black;
+    border-width: 10px;
+    color: black;
+    padding: 15px 32px;
+    border-radius: 12px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-flex;
+    font-size: 16px;
+    cursor: pointer;
+    transition-duration: 0.4s;
+  }
+  .button:hover{
+      background-color: white;
+  }
